@@ -4,7 +4,7 @@ Data repository associated with [this project](https://github.com/sct-pipeline/e
 
 ## Data
 
-The ex-vivo template is available in [this repository](https://github.com/sct-data/exvivo-template), which contains:
+This data repository contains:
 - `template.nii.gz`: ex-vivo template.
 - `mask_spinalcord.nii.gz`: binary spinalcord mask.
 - `map_greymatter.nii.gz`: probabilistic grey matter map.
