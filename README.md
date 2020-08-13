@@ -2,6 +2,13 @@
 
 Data repository associated with [this project](https://github.com/sct-pipeline/exvivo-template).
 
+![template](https://github.com/sct-data/exvivo-template/raw/master/images/template.png)
+
+![greymatter](https://github.com/sct-data/exvivo-template/raw/master/images/greymatter.png)
+
+![motortracts](https://github.com/sct-data/exvivo-template/raw/master/images/motortracts.png)
+
+
 ## Data
 
 This data repository contains:
