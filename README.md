@@ -14,9 +14,9 @@ Data repository associated with [this project](https://github.com/sct-pipeline/e
 This data repository contains:
 - `template.nii.gz`: ex-vivo template.
 - `mask_spinalcord.nii.gz`: binary spinalcord mask.
-- `map_greymatter.nii.gz`: probabilistic grey matter map.
+- `map_greymatter.nii.gz`: probabilistic grey matter map. NOTE: will be upload by 16/08/2020.
 - `mask_spinalsegments.nii.gz`: mask of spinal segments, the value corresponds to the cervical segment, e.g. voxel value of 5 corresponds to C5 spinal level.
-- `mask_motortracts.nii.gz`: mask of spinal motor tracts, the value corresponds to a specific motor tract, see [Labels sub-section](#labels) for details.
+- `mask_motortracts.nii.gz`: mask of spinal motor tracts, the value corresponds to a specific motor tract, see [Labels sub-section](#labels) for details. NOTE: will be upload by 20/08/2020.
 
 ### Labels
 
