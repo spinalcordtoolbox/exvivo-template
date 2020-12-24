@@ -1,0 +1,8 @@
+# Template labels
+# Keyword=IndivLabels (Please DO NOT change this line)
+# ID, name, file
+0, Template, template.nii.gz
+3, spinal cord mask (binary), mask_spinalcord.nii.gz
+5, gray matter mask (probabilistic), map_greymatter.nii.gz
+14, point-wise spinal level labels, label_spinalsegments.nii.gz
+15, spinal cord mask with continuous spinal level labels, mask_spinalsegments.nii.gz
