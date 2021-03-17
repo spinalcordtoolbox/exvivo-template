@@ -1,8 +1,8 @@
-# Template labels
+# Template labels. See definitions in https://github.com/neuropoly/spinalcordtoolbox/blob/6d70ad82fbd9ba7961fc1ef7fbb7ebca70ac6fc7/spinalcordtoolbox/scripts/sct_register_to_template.py#L335
 # Keyword=IndivLabels (Please DO NOT change this line)
 # ID, name, file
-0, Template, template.nii.gz
-3, spinal cord mask (binary), mask_spinalcord.nii.gz
-5, gray matter mask (probabilistic), map_greymatter.nii.gz
-14, point-wise spinal level labels, label_spinalsegments.nii.gz
-15, spinal cord mask with continuous spinal level labels, mask_spinalsegments.nii.gz
+1, T2w template, exvivo_t2.nii.gz
+3, spinal cord mask (binary), exvivo_cord.nii.gz
+5, gray matter mask (probabilistic), exvivo_gm.nii.gz
+14, point-wise spinal level labels, exvivo_label_spinal_levels.nii.gz
+15, spinal cord mask with values corresponding to spinal levels, exvivo_spinal_levels.nii.gz
