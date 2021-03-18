@@ -42,7 +42,7 @@ Motor tracts value in `mask_motortracts.nii.gz`:
 - 18 - Pectoral muscle motor neurons of lamina 9
 
 ## How to cite
-Gros, C., Asiri, A., De Leener, B., Watson, C., Cowin, G., Ruitenberg, M., Kurniawan, N., Cohen-Adad, J., 2020. Ex vivo MRI template of the human cervical cord at 80μm isotropic resolution, in: Proceedingsof the 28th Annual Meeting of ISMRM. Presented at the ISMRM.
+Gros, C., Asiri, A., De Leener, B., Watson, C., Cowin, G., Ruitenberg, M., Kurniawan, N., Cohen-Adad, J., 2020. [Ex vivo MRI template of the human cervical cord at 80μm isotropic resolution](https://github.com/sct-data/exvivo-template/files/6167076/Gros.et.al.2020.-.Ex.vivo.MRI.template.of.the.human.cervical.cord.at.80.m.isotropic.resolution.pdf), in: Proceedings of the 28th Annual Meeting of ISMRM. Presented at the ISMRM.
 
 
 ## Contributors
