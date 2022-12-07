@@ -19,6 +19,8 @@ This data repository contains:
 - `template/label_spinalsegments.nii.gz`: point-wise spinal level labels.
 - `atlas/mask_motortracts.nii.gz`: mask of spinal motor tracts, the value corresponds to a specific motor tract, see [Labels sub-section](#labels) for details. NOTE: will be upload by 06/09/2020.
 
+The raw data are accessible at (internal server): `duke:archives/projects/2020/template_exvivo_uqueensland`
+
 ### Labels
 
 Motor tracts value in `mask_motortracts.nii.gz`:
